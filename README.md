@@ -100,10 +100,12 @@ Hey, I'm **Soham Sunil Margaj** — an Information Technology undergrad at **VJT
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soham555-maker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=soham555-maker&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=soham555-maker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" alt="Soham's GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=soham555-maker&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham555-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham555-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&text_color=C0CAF5&langs_count=8" alt="Top Languages" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=soham555-maker&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=7AA2F7&line=BB9AF7&point=C0CAF5&area=true&area_color=7AA2F7" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -114,8 +116,8 @@ Hey, I'm **Soham Sunil Margaj** — an Information Technology undergrad at **VJT
 
 <div align="center">
 
-<img width="48%" src="https://codeforces-readme-stats.vercel.app/api/card?username=sohammargaj55555&theme=tokyonight&hide_border=true" alt="Codeforces Stats" />
-<img width="48%" src="https://leetcard.jacoblin.cool/Soham_Margaj?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+<img width="49%" src="https://codeforces-readme-stats.vercel.app/api/card?username=sohammargaj55555&theme=tokyonight&hide_border=true" alt="Codeforces Stats" />
+<img width="49%" src="https://leetcard.jacoblin.cool/Soham_Margaj?theme=dark&font=Fira%20Code&ext=heatmap&animation=false" alt="LeetCode Stats" />
 
 </div>
 
