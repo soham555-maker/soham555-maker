@@ -13,12 +13,11 @@
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open_to-Placements_%26_SDE_Roles-2EA043?style=flat-square&logo=briefcase&logoColor=white)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-margaj)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ssmargaj_b23@it.vjti.ac.in)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sohammargaj55555)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Soham_Margaj/)
+![Open to Work](https://img.shields.io/badge/Open_to-_SDE_Roles_-2EA043?style=flat-square&logo=briefcase&logoColor=white)
 
 </div>
 
