@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Soham Margaj
+# Soham Sunil Margaj
 
 <a href="https://github.com/soham555-maker">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1000&color=A873DA&center=true&vCenter=true&width=620&height=42&lines=Full-Stack+Developer+%7C+Competitive+Programmer;ICPC+Regionalist+%C2%B7+Codeforces+Specialist;Integrating+ML+%26+GenAI+into+web+apps" alt="Subtitle" />
