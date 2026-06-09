@@ -32,7 +32,7 @@ Hey, I'm **Soham Sunil Margaj** — an Information Technology undergrad at **VJT
 
     </td>
     <td width="38%" valign="top" align="center">
-      <img src="./assets/profile.jpg" alt="Soham Margaj" width="230" style="border-radius:12px;" />
+      <img src="./assets/profile.jepg" alt="Soham Margaj" width="230" style="border-radius:12px;" />
     </td>
   </tr>
 </table>
