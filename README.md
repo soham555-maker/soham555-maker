@@ -31,7 +31,7 @@ As an **ICPC 2025 Regionalist** — having competed at the **Amritapuri** and **
 - **300+** problems solved on LeetCode
 - **3★** on CodeChef
 
-Alongside competitive programming, I work as a **Full-Stack Developer** (primarily the **MERN** stack) and build backend systems with **Flask**. I'm especially interested in integrating **Machine Learning and Generative AI** into web applications to create intelligent, impactful solutions.
+Alongside competitive programming, I work as a **Full-Stack Developer** (primarily the **MERN** stack) and build backend systems with **Flask**. I'm especially interested in integrating **Generative AI And Agentic AI** into web applications to create intelligent, impactful solutions.
 
 💼 Currently working as a **Web Developer Intern at Helper Hub** (an early-stage startup), and **actively open to full-time placement opportunities, SDE roles, and collaborative projects**.
 
@@ -57,6 +57,22 @@ Alongside competitive programming, I work as a **Full-Stack Developer** (primari
     <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,git,postman,vscode&theme=dark" height="38" alt="MongoDB, MySQL, Supabase, Git, Postman, VS Code" /></td>
   </tr>
 </table>
+
+## GitHub Stats
+
+<div align="center">
+<table>
+  <tr>
+    <td valign="top">
+      <img height="170px" src="https://github-readme-stats-nu-eight-63.vercel.app/api?username=soham555-maker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=73DACA&icon_color=BB9AF7&text_color=C0CAF5" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img height="170px" src="https://github-readme-stats-nu-eight-63.vercel.app/api/top-langs/?username=soham555-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=73DACA&text_color=C0CAF5&langs_count=6" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+</div>
+
 
 ## Competitive Programming
 
@@ -92,17 +108,4 @@ Alongside competitive programming, I work as a **Full-Stack Developer** (primari
   </tr>
 </table>
 
-## GitHub Stats
 
-<div align="center">
-<table>
-  <tr>
-    <td valign="top">
-      <img height="170px" src="https://github-readme-stats-nu-eight-63.vercel.app/api?username=soham555-maker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=73DACA&icon_color=BB9AF7&text_color=C0CAF5" alt="GitHub Stats" />
-    </td>
-    <td valign="top">
-      <img height="170px" src="https://github-readme-stats-nu-eight-63.vercel.app/api/top-langs/?username=soham555-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=73DACA&text_color=C0CAF5&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-</div>
