@@ -39,6 +39,7 @@ Alongside competitive programming, I work as a **Full-Stack Developer** (primari
 
 ## Tech Stack
 
+<div align="center">
 <table>
   <tr>
     <td><b>Languages</b></td>
@@ -57,6 +58,8 @@ Alongside competitive programming, I work as a **Full-Stack Developer** (primari
     <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,git,postman,vscode&theme=dark" height="38" alt="MongoDB, MySQL, Supabase, Git, Postman, VS Code" /></td>
   </tr>
 </table>
+</div>
+
 
 ## GitHub Stats
 
