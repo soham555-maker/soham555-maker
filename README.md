@@ -23,34 +23,29 @@
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ## About Me
 
-Hi, I'm an Information Technology undergraduate at **VJTI, Mumbai** (Class of 2027) interested in competitive programming, machine learning and Agentic AI.
+I'm an Information Technology undergraduate at **VJTI, Mumbai** (Class of 2027) interested in competitive programming, machine learning, and Agentic AI.
 
-I work primarily with the MERN stack and Flask, and enjoy building full-stack applications and backend systems. Recently, I've been exploring the use of Generative AI and Agentic AI in practical software products.
+I work primarily with the **MERN stack** and **Flask**, and enjoy building full-stack applications and backend systems. Recently, I've been exploring the use of Generative AI and Agentic AI in practical software products.
 
-I was a participant in the **ICPC 2025 Regionals** (Amritapuri and Kanpur) and actively take part in competitive programming on Codeforces, LeetCode, and CodeChef.
+I participated in the **ICPC 2025 Regionals** (Amritapuri and Kanpur) and actively take part in competitive programming on Codeforces, LeetCode, and CodeChef.
 
 Currently, I'm working as a **Web Developer Intern** at Helper Hub, where I contribute to product development and web applications.
 
 I'm open to software engineering roles, placement opportunities, and interesting projects.
-</td>
 
-<td width="40%" valign="top" align="center">
+---
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=soham555-maker&show_icons=true&theme=tokyonight&hide_border=true" />
+## GitHub Stats
 
-<br/><br/>
+<div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham555-maker&layout=compact&theme=tokyonight&hide_border=true&card_width=445" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=soham555-maker&show_icons=true&theme=tokyonight&hide_border=true" />
 
-</td>
-</tr>
-</table>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham555-maker&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
@@ -58,37 +53,25 @@ I'm open to software engineering roles, placement opportunities, and interesting
 
 <div align="center">
 
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" height="40"/>
-</td>
-</tr>
+### Languages
 
-<tr>
-<td><b>AI / ML</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" />
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+
 <br/>
+
 <sub>LangChain · FAISS · RAG · Hugging Face</sub>
-</td>
-</tr>
 
-<tr>
-<td><b>Web</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask&theme=dark" height="40"/>
-</td>
-</tr>
+### Web Development
 
-<tr>
-<td><b>Data & Tools</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,git,postman,vscode&theme=dark" height="40"/>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask&theme=dark" />
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,git,postman,vscode&theme=dark" />
 
 </div>
 
@@ -96,54 +79,18 @@ I'm open to software engineering roles, placement opportunities, and interesting
 
 ## Competitive Programming
 
-<table align="center" width="100%">
-<tr>
+<div align="center">
 
-<td align="center" width="33%">
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/sohammargaj55555)
+[![LeetCode](https://img.shields.io/badge/LeetCode-334_Solved-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/Soham_Margaj/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)](https://www.codechef.com/users/sohammargaj526)
 
-<a href="https://codeforces.com/profile/sohammargaj55555">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
+</div>
 
-<br/><br/>
-
-<b>Specialist</b><br/> <sub>Rating <b>1419</b> · Max <b>1488</b></sub><br/> <sub><b>367</b> Problems · <b>44</b> Contests</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://leetcode.com/u/Soham_Margaj/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<b>334 Solved</b><br/> <sub>104 Easy · 187 Medium · 43 Hard</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://www.codechef.com/users/sohammargaj526">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<b>3★ Coder</b><br/> <sub>1600+ Rated</sub>
-
-</td>
-
-</tr>
-</table>
+* **ICPC 2025 Regionalist** (Amritapuri & Kanpur)
+* **Codeforces:** Specialist (1419, max 1488)
+* **LeetCode:** 334 solved (104 Easy · 187 Medium · 43 Hard)
+* **CodeChef:** 3★ Coder (1600+ rated)
 
 ---
 
-<div align="center">
-
-### Thanks for visiting!
-
-Feel free to connect or check out my repositories.
-
-</div>
